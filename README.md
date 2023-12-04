@@ -11,7 +11,7 @@ YouTube Downloader Master is a Python-based application that allows users to dow
 - **Visual Progress Bar:** Track download progress with a visual progress bar.
 
 **Requirements:**
-- Python 3.x
+- Python 3+
 - Libraries: tkinter, customtkinter, pytube
 
 **Installation:**
