@@ -15,8 +15,11 @@ YouTube Downloader Master is a Python-based application that allows users to dow
 - Libraries: tkinter, customtkinter, pytube
 
 **Installation:**
-- Ensure Python is installed. If not, download it [here](https://www.python.org/downloads).
-- Run the `build.bat` file to check and install required packages.
+1. Download the project files from the GitHub repository. You can either clone the repository using Git or download the ZIP file directly.
+2. Extract the downloaded ZIP file to a directory of your choice.
+3. Open the extracted directory in your terminal or command prompt.
+4. Ensure Python is installed. If not, download it [here](https://www.python.org/downloads).
+5. Run the `build.bat` file to check and install required packages.
 
 **Usage:**
 1. Run the `main.py` file.
@@ -29,6 +32,7 @@ YouTube Downloader Master is a Python-based application that allows users to dow
 - Fork the repository.
 - Make necessary changes.
 - Create a pull request.
+
 
 **Screenshots:**
 
