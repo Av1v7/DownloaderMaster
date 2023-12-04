@@ -22,7 +22,7 @@ YouTube Downloader Master is a Python-based application that allows users to dow
 5. Run the `build.bat` file to check and install required packages.
 
 **Usage:**
-1. Run the `main.py` file.
+1. Run `main.py` or `build.bat` file.
 2. Paste the YouTube video link into the designated field.
 3. Select the desired file format (MP4 or MP3).
 4. Choose a download directory or use the default one.
